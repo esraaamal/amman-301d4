@@ -200,4 +200,5 @@ console.log(joe.scopeArrow());
 //becuse it is an arrow function ..so this will refer to the window
 //
 // 3. Explain why "this" is different when an arrow function is used.
-//becuse the arrow function "this"is evaluated to undefined.
+//because in the arrow function "this"is evaluated to undefined.
+// arrow function is a code block 
